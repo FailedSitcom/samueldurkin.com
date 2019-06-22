@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Web Developer`,
-    description: `Personal site of web developer Samuel Durkin, but using Gatsby.js`,
+    description: `Personal site of web developer Samuel Durkin`,
     author: `@failedsitcom`,
   },
   plugins: [
