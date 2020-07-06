@@ -31,6 +31,7 @@ const IndexPage = () => (
             </h2>
             <div className="text-gray-600 inline-flex ml-2">
               <a href="https://github.com/failedsitcom">
+                <span className="sr-only">Samuel Durkin's GitHub page</span>
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   width="24"
